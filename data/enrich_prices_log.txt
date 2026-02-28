@@ -1,0 +1,43 @@
+Checking 211 of 2657 records for price info...
+  [50] Magnolia Loom: Contact for quote
+  [52] Harvest & Mill: $200; $76.00; $124.00
+  [53] grown&sewn: From $225; $49.00; $225; $300; $68
+  [54] Imogene + Willie (The Cotton Project): $50
+  [59] Cone Denim LLC: $6; $50
+  [69] Greenwood Mills: $60
+  [73] Family Heir-Loom Weavers: From $25.00; $35.00; $280.00; $30.00; $25.00
+  [80] Loom Craft Inc.: Wholesale
+  [84] Swavelle Mill Creek: MOQ 1500
+  [86] Weavetec, Inc.: Wholesale
+  [88] Spiritex: Wholesale
+  [89] Koshtex: From $34.95; $9.95; $100; $8.50
+  [91] Beverly Knits: Wholesale
+  [102] American Giant: $150; $25; $150.00
+  [103] US Blanks: $50; $30; $36; $32; Wholesale
+  [105] Seam Apparel: Wholesale
+  [107] California Textile Group: $3.45; $2.45; $5.50
+  [108] Goodwear USA: From $56.00; $150; $56.00; Wholesale
+  [109] All USA Clothing: From $72.99; $99; $72.99; $74.95; $64.95
+  [110] Prime Blanks: Wholesale
+  [111] Volunteer Knit Apparel Inc: $7
+  [118] Boxercraft: $85; $19.85; $42.85; $48.85; Wholesale
+  [120] Higgins Sewing and Manufacturing: Wholesale
+  [124] Made X Hudson: From $10.00; $250; $125; $50; $195.00
+  [125] Apparel Production Inc: $50; $100; Wholesale
+  [128] NYC Factory Inc: From $90.00; $90.00
+  [132] Clothier Design Source: Wholesale
+  [134] Fourbital Factory: From $5; $5; $500; Wholesale
+  [135] Vermont Flannel: $88.80; $98.80; Wholesale
+  [136] Whalerknits: $169.00; $129.00; $179.00; Wholesale
+  [150] Colorado Threads: $150; $50; $200; Wholesale
+  [156] American Roots: $100
+  [157] ORIGIN: $99; $199; $99.00
+  [163] Brilliant You Denim: $59.00; $57.00; $47.00; $45.00; $49.00
+  [167] Diamond Apparel: From $49.75; $49.75; $36.99; $29.98; $30.00
+  [178] Fabric Finders Inc: Wholesale
+  [180] Robert Kaufman Fabrics: Wholesale
+  [181] Nature's Fabrics: $24.99; Wholesale
+  [216] Gulf Compress: $7.00
+  [217] Plains Cotton Cooperative Association: Wholesale
+  [219] Sowega Cotton Inc: $65.46; $97.72; $91.00; $10.84
+Updated 41 records; wrote data/buyable_with_prices.csv

@@ -1,0 +1,510 @@
+name,city,state,type,source,category
+Parker Brothers Farm,Sikeston,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Fann Farms,Salemburg,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Connelly Farms,Ulmer,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Michael Brown & Sons,Lake Providence,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Isbell Farms,Muscle Shoals,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Anderson Farms,Tarboro,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+VIP Farms,Thatcher,AZ,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Pearson Farms,Sikeston,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Smith & Sons,Bishop,TX,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Gertson Farms Partnership,Lissie,TX,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Frische Farms,Dumas,TX,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Hlavinka Cattle Co JV,East Bernard,TX,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+McNair Farms,Driscoll,TX,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Tyler Farms,Helena,AR,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Kelley Enterprises,Burlison,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+P G C Farms,Brinson,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Balmoral Farming Partnership,Newellton,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Carpenter Produce,Grady,AR,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Gila River Farms,Sacaton,AZ,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Missouri Delta Farms,Sikeston,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Deline Farms Partnership,Charleston,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Seward & Son Planting Company,Louise,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+New Hope Farms,Schlater,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Bruton Farms Partnership,Hollandale,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Due West,Glendora,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Perthshire Farms,Gunnison,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+St Rest Planting Co,Indianola,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Dixie Farms,Vance,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Holly Ridge Planting Co,Indianola,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Maxwell Farms,Benoit,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Pitts Farms,Indianola,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Morgan Farms,Cleveland,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Steele Farms,Hollandale,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Phillips Farms,Holly Bluff,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Gypsy Farms,Greenville,MS,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Bridgeforth Farms,Tanner,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Spruell Farms,Mount Hope,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Showtime Farms,Georgia,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Scott Farms G P,Brinson,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+John M Mobley & Sons,Moultrie,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Heard Family Farm,Brinson,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+T & T Farms,Leesburg,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Simmons Farms,Doerun,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Luther Griffin Farm,Bainbridge,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Family Farm Partners,Camilla,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Minor Brothers Farm Partnership,Andersonville,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Minor Brothers Farms Gp,Andersonville,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+SOS Farms,Ashburn,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Killarney Farm Partnership,Jakin,GA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+R A Pickens And Son Company,Pickens,AR,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Benwood Farms,Earle,AR,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Brantley Farming Co,England,AR,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+H E Jordan & Family Farm Partnershp,Gates,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Mid-south Family Farms,Ripley,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Mcarmour Enterprises Ptr,Halls,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Couch Farms,Jackson,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Sneed Brothers,Millington,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Tibbs Farms Partnership,Brownsville,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Lindamood Planting Company,Tiptonville,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Hendrix & Sons Farm Partnership,Brownsville,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Fullen Ag Company,Ripley,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Moore Farms,Somerville,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Yarbro Farms,Dukedom,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Stewart Farms,Atoka,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Taylor Bros,Bells,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+R & R Farms,Mc Kenzie,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Tyson Farms Partnership,Denmark,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Manning Farms,Halls,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Pearson Farms,Jackson,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Kelley & Kelley Farms Partnership,Burlison,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+C E Luckey & Sons,Humboldt,TN,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Beanland Farms,Hollis,OK,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Bates Bros & Sons,Altus,OK,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Radcliff Farms,Forgan,OK,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Worrell Farms Partnership,Altus,OK,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+K & S Partnership,Hollis,OK,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+J & J Farms,Forgan,OK,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Bill & Karen Dill-joint Venture,Hollis,OK,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Hardzog Farms,Elgin,OK,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Condrey Farms,Lake Providence,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Franklin Farms,Newellton,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Hardwick Planting Co,Newellton,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Four Oaks Farms,Morganza,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Deshotels Farm Management,Lettsworth,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Franklin Partnership,Rayville,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Vandeven Farms,Saint Joseph,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Logan Farms Partnership,Gilliam,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Leake Farms,Newellton,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Hard Bargain Farms Partnership,Epps,LA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Amd Farms,Hobgood,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Cox Brothers Farms,Monroe,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Howard Farms,Deep Run,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Dunlow And Dunlow,Gaston,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Harrell And Owens Farm,Tarboro,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Lancaster Properties,Stantonsburg,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Walton Farms,Lumber Bridge,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+3 B Farms Partnership,Pinetown,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Farless & Sons,Merry Hill,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Umphlett Brothers,Gates,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Whitehurst Farms Ptns,Conetoe,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+The Williamson Farm,Mount Gilead,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Fulcher Brothers Farm,Ernul,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Stuart Pierce Farms Inc,Ahoskie,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Stephenson Bros,Garysburg,NC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Rogers Brothers Farm,Hartsville,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Haigler Farms Partnership,Cameron,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Bruce G Price & Sons,Little Rock,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Cotton Lane Farms,Elloree,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Tolson Farms,Lynchburg,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Calhoun Farms,Clio,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Perrow Farms,Cameron,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+W M Smith & Sons,Saint Matthews,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Double D Farms,Gable,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Glasdrum Farms,Little Rock,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Lyons Brothers Farms,Elloree,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Palmetto Farms,Fort Motte,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Betty Allen Farms,Latta,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Mckeowen Farms,Orangeburg,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+L & S Farms,Summerton,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Corrin F Bowers And Son,Luray,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Ted Shuler & Sons,Santee,SC,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Starrh & Starrh Ctn Growers,Shafter,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Fisher Farms,Blythe,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Red River Farms,Blythe,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Bowles Farming Company Inc,Los Banos,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Cloverdale Farms,Hanford,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+A-bar Ag Enterprises,Firebaugh,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+E W Merritt Farms,Porterville,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+C J Ritchie Farms,Visalia,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Gilkey Five,Corcoran,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Hansen Ranches,Corcoran,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+J G Boswell Co,Corcoran,CA,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Ddab Farms,Caruthersville,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Pierce Farms,Caruthersville,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Rone Farm Partnership,Portageville,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Parker & Jones Farms,Senath,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Clearview Farms,Fisk,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Robinson Farms,Dexter,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Priggel Land Partnership,Oran,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Hoggard Farms,Portageville,MO,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Martin Farm,Courtland,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Newby Farms,Athens,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Haney Farms,Athens,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Driskell Cotton Farms,Grand Bay,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Benton Farms,Benton,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Darden Bridgeforth And Sons,Tanner,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Blythe Cotton Company,Town Creek,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Hamilton Farms,Hillsboro,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Wiggins Farm,Andalusia,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Helton Brothers Farm,Atmore,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Lee Farm,Town Creek,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Westover Planting Co,Eufaula,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Vaden Farms,Florence,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+J B Hain Co,Sardis,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Devaney Brothers Farms,Madison,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Home Place Partners,Prattville,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Red Land Farms,Moulton,AL,grower,EWG Farm Subsidy Database (USDA cotton payments),grower
+Daniel W. Baxley,Dillon,SC,grower,NCC American Cotton Producers,grower
+Clinton James Dunn,Itta Bena,MS,grower,NCC American Cotton Producers,grower
+Gerald A. Rovey,Buckeye,AZ,grower,NCC American Cotton Producers,grower
+Shane Isbell,Cherokee,AL,grower,NCC American Cotton Producers,grower
+Nick R. McMichen,Centre,AL,grower,NCC American Cotton Producers,grower
+Jesse Cooper Flye,Jonesboro,AR,grower,NCC American Cotton Producers,grower
+Dean Everett Rovey,Buckeye,AZ,grower,NCC American Cotton Producers,grower
+Dean R. Wells,Casa Grande,AZ,grower,NCC American Cotton Producers,grower
+Bryan Bone,Bakersfield,CA,grower,NCC American Cotton Producers,grower
+Nicholas Marshall,Baker,FL,grower,NCC American Cotton Producers,grower
+Lee Cromley,Brooklet,GA,grower,NCC American Cotton Producers,grower
+"Bart Davis, Jr.",Doerun,GA,grower,NCC American Cotton Producers,grower
+Stuart C. Briggeman,Pratt,KS,grower,NCC American Cotton Producers,grower
+Stephen E. Logan,Gilliam,LA,grower,NCC American Cotton Producers,grower
+"Russell Y. Ratcliff, III",Saint Joseph,LA,grower,NCC American Cotton Producers,grower
+Barry B. Bean,Gideon,MO,grower,NCC American Cotton Producers,grower
+"Ted H. Kendall, IV",Bolton,MS,grower,NCC American Cotton Producers,grower
+Eric K. Cahoon,Engelhard,NC,grower,NCC American Cotton Producers,grower
+Chris Sawyer,Greenville,NC,grower,NCC American Cotton Producers,grower
+Dean Calvani,Carlsbad,NM,grower,NCC American Cotton Producers,grower
+Philip Ray Bohl,Faxon,OK,grower,NCC American Cotton Producers,grower
+Mark Nichols,Altus,OK,grower,NCC American Cotton Producers,grower
+"Cecil Eaddy, Jr.",Manning,SC,grower,NCC American Cotton Producers,grower
+James H. Johnson,Mayesville,SC,grower,NCC American Cotton Producers,grower
+Jason R. Luckey,Humboldt,TN,grower,NCC American Cotton Producers,grower
+William R. Walker,Somerville,TN,grower,NCC American Cotton Producers,grower
+Brent Coker,Lubbock,TX,grower,NCC American Cotton Producers,grower
+Stacy W. Smith,Wilson,TX,grower,NCC American Cotton Producers,grower
+"James W. Jones, Jr.",Windsor,VA,grower,NCC American Cotton Producers,grower
+Jon R. Whatley,Odem,TX,grower,NCC American Cotton Producers,grower
+Jason T. Condrey,Lake Providence,LA,grower,NCC American Cotton Producers,grower
+Madison C. Coley,Vienna,GA,grower,NCC American Cotton Producers,grower
+James Sutton Page,Avoca,TX,grower,NCC American Cotton Producers,grower
+Garold Joe Martin,Firebaugh,CA,grower,NCC American Cotton Producers,grower
+5 Lock Gin and Warehouse,Dothan,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Associated Growers Co-op,Athens,AL,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Black Belt Gin,Selma,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Carrville Gin Co,Tallassee,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cherokee Gin & Cotton Co,Centre,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Coffee Gin Company,Enterprise,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cotton Producers Co-op,New Market,AL,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cotton Producers Co-op,Tuscumbia,AL,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Covington Gin Co,Andalusia,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Frank Currie Gin Company,Atmore,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Henry County Gin,Headland,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Hillsboro Gin,Hillsboro,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Holtville Gin Co-op,Deatsville,AL,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Milstead Farm Group,Shorter,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Oakland Gin Co,Florence,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Rainbow Gin Company,Blountsville,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Scruggs & Vaden Gin Co,Florence,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Segrest Brothers Gin,Shorter,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Servico Gin,Courtland,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Sowega Cotton Gin,Hartford,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Sweet Water Gin,Sweet Water,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Yeager Gin Company,Moulton,AL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Chandler Ginning Co,Casa Grande,AZ,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Gin,Buckeye,AZ,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Glenbar Gin,Pima,AZ,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Pinal Gin,Stanfield,AZ,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+River Co-op Gin,Coolidge,AZ,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Safford Valley Cotton Growers,Safford,AZ,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Yuco Gin,Yuma,AZ,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Adams Land Co. Gin,Leachville,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Black Oak Gin Co,Black Oak,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Childress Gin & Elevator,Monette,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Crittenden Gin Company,Crawfordsville,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+"Cotton Growers, Inc",Dell,AR,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Deyampert Gin,Wilmot,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Epstein Gin Co,Lake Village,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers First Gin,Blytheville,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+GPS Gin Co,Portland,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Graves Gin Co,Rector,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Kiech-Shauver Miller Gin Co,Monette,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Langston Enterprises,Blytheville,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Lee Wilson & Co,Wilson,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+"McClendon, Mann & Felton Gin",Marianna,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+McGehee Producers Gin,McGehee,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Monette Co-op,Monette,AR,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Portland Gin & Warehouse,Portland,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Rabbit Ridge Cotton Warehouse,Lepanto,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+"Senter & Sons Gin, Inc.",Osceola,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Service Co-op Gin,Marvell,AR,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Southland Gin,Lake City,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Taylor Gin,Gould,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tripp Gin Company,Griffithville,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+WinCott Gin Co,Winchester,AR,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+County Line Gin,Hanford,CA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Dos Palos Co-op Gin,Dos Palos,CA,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmer's Co-op Gin,Buttonwillow,CA,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mid-Valley Cotton Growers,Tulare,CA,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Modern Ginning Co,Blythe,CA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Westhaven Cotton Co,Lemoore,CA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+West Island Co-op Gin,Lemoore,CA,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Burkhead Gin Co,Jay,FL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Clover Leaf Gin,Marianna,FL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Golden Gin Warehouse,Jay,FL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+West Florida Gin Co,Walnut Hill,FL,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Arabi Gin,Arabi,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Boston Gin Co,Boston,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+BTC Gin Co,Quitman,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Bulloch Gin Co,Brooklet,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Candler Gin & Warehouse Co,Metter,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Clover Leaf Gin,Donalsonville,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Coffee County Gin Co,Douglas,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Coley Gin & Fertilizer,Vienna,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Collins Gin,Waynesboro,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cotton Fortunes,Leesburg,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Decatur Gin Company,Bainbridge,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Dixon Cotton Gin,Enigma,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Doerun Gin Co,Doerun,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Dooly County Gin,Vienna,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Early County Gin,Blakely,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Edison Gin Co-op,Edison,GA,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmer's Gin & Peanut Co,Moultrie,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmer's Gin & Storage Co,Wadley,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Findlay Gin,Vienna,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Four Corners Gin Co,Meigs,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Funston Gin Co,Funston,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Griggs Gin,Pinehurst,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Heart Of Georgia Peanut & Gin,Hawkinsville,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+McCleskey Cotton Co,Dawson,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Miller County Cotton Co,Colquitt,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mobley Gin Co,Doerun,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Norman Park Gin & Warehouse,Norman Park,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Omega Gin Co,Tifton,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Osceola Cotton Co,Ocilla,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Pinecliff Planters Cotton Gin,Camilla,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Quality Gin Inc.,Shellman,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Riverside Gin & Storage,Midville,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Screven Gin Co,Sylvania,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Sconyer's Gin & Warehouse,Sycamore,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+South Central Georgia Gin,Enigma,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Southeastern Gin & Peanut,Surrency,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Southern Gin,Pelham,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+South Georgia Gin,Hazlehurst,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Sowega Cotton Gin,Climax,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Sumter County Producers Gin,Americus,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+The Cotton Gin,Lenox,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tri County Gin,Taylorsville,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tri-County Gin,Douglas,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Trico Gin & Peanut,Unadilla,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Worth Gin & Warehouse,Sylvester,GA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Armistead Gin Co,Coushatta,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Associated Producers Co-op,Winnsboro,LA,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Browning Gin Co,Crowville,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Caddo Farmers Gin Inc,Belcher,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+C-C Planters Gin,Jonesville,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Gilliam Gin Co,Gilliam,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Hollybrook Gin,Lake Providence,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Joe's Bayou Gin,Lake Providence,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+McNutt Gin Co,Boyce,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Planters Gin,St. Joseph,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Rayville Producers Gin,Rayville,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tanner Gin,Ferriday,LA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tensas Co-op Gin,Newellton,LA,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Big Creek Gin,Lyon,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Bobo-Moseley Gin Co,Lyon,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Bogue Chitto Gin,Macon,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Como Consolidated Gin Co,Como,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Crossroads Gin,Schlater,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Double B Gin,Randolph,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Due West Gin,Cary,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Gin,Hamilton,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farrell Gin Co,Clarksdale,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Four County Gin,Calhoun,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Greenwood Gin,Greenwood,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Grundfest & Klaus Gin,Cary,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Hi Grade Farm Supply & Gin,Winona,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Holmes Gin,Tchula,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Linwood Gin,Vaughan,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mattson Gin,Clarksdale,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mid-Delta Cotton Processors,Belzoni,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mill Creek Gin,Coahoma,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+North Delta Gin Company,Marks,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Norfolk Corporation Gin,Cormorant,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Quito Gin,Itta Bena,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Scruggs Farm Gin,Tupelo,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Silver Creek Gin,Holly Bluff,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tri County Gin,Batesville,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tunica Gin,Tunica,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Yalobusha Gin,Coffeeville,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Yazoo Planters Gin,Yazoo City,MS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+4-Way Gin Co,Senath,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+A C Riley Cotton Co,New Madrid,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Bernie Farmers Gin,Malden,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Bootheel Cotton Co,Matthews,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+"Cardwell Cooperative, Inc",Cardwell,MO,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Caruthersville Gin Inc.,Caruthersville,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cooter Cotton Gin Inc.,Holland,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Crowder Cotton Gin,Sikeston,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Dalton Cotton Co,Senath,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Union Gin,Senath,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+J P Ross Cotton Co,Essex,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mahan Gin,Parma,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+McCord Gin,Gideon,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+"Portageville Farmers Gin, Inc",Portageville,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Richardson Gin,Marston,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Sandy Ridge Cotton Co,Malden,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Stoddard County Cotton Co,Bernie,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Stokes Mayberry Gin,Malden,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Vanduser Gin Co,Vanduser,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+White Oak Gin,White Oak,MO,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Artesia Alfalfa Growers Association,Artesia,NM,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers CO-OP Assn. GIN #1,Hagerman,NM,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Loving GIN,Loving,NM,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mesa Farmers Co-op,Vado,NM,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mesa Farmers CO-OP,Mesquite,NM,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Clarkton Cotton Co,Clarkton,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Coastal Carolina Gin,Pantego,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Corner Cotton Gin,Dunn,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Davis Cotton Gin,Hobgood,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Edgecombe Cotton Growers,Tarboro,NC,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Edwards Cotton Co,Scotland Neck,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Enfield Cotton Ginnery,Enfield,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Gin Co,Jackson,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Gaston Co-op,Garysburg,NC,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Gates Cotton Gin Inc,Gates,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Greene Gin & Cotton Co,Snow Hill,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Growers Ginning Co,Ayden,NC,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Harvey's Gin & Cotton,La Grange,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Hoke Robeson Gin,Red Springs,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Jones County Cotton Gin,Trenton,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Midway Gin Co,Maxton,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Piedmont Cotton Inc,Polkton,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Pitt County Gin,Bethel,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Producer's Gin & Warehouse,Murfreesboro,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Quality Gin Co,Dunn,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Roanoke Cotton Co,Halifax,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Roanoke Tar Cotton Inc,Everetts,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Rolling Hills Gin,New London,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Sampson Gin Co,Newton Grove,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tarheel Cotton Co,Merry Hill,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Ward & Nixon Cotton Gin,Winfall,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Woodville Gin,Lewiston-Woodville,NC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Next GINeration Cotton Gin,Pratt,KS,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Northwest Cotton Growers Co-op,Moscow,KS,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Southern Kansas Cotton Growers,Anthony,KS,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cotton Growers Co-Op,Altus,OK,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Co-Op Association,Eldorado,OK,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Co-op Gin,Grandfield,OK,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Great Plains Cotton Gin,Minco,OK,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Humphreys Co-op,Altus,OK,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Motley Gin Inc.,Hollis,OK,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tri County Gin,Chattanooga,OK,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Western Planters,Hobart,OK,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cameron Cotton & Seed Co,Cameron,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Coker Gin,Hartsville,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Culler Holstein Gin,Swansea,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Elloree Gin Co,Elloree,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mayesville Gin Co,Mayesville,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+McColl Gin Co,Bennettsville,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+MEGCO Services,Estill,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Middling Cotton Co,St. Matthews,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Salters Gin,Salters,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+St. Charles Gin Co,Mayesville,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Valentine Cotton Co,Cope,SC,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Bemis Gin & Warehouse,Jackson,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Burlison Gin Co,Covington,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cairo Farmers Gin,Alamo,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Crockett Gin Culverts & Pipe,Maury City,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Crockett Mills Gin,Friendship,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Elora Gin Co,Elora,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Espey Gin Co,McLemoresville,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Gin Of Humboldt,Humboldt,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Halls Gin Co,Halls,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Hickory Valley Gin Co,Hickory Valley,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Longtown Gin & Warehouse,Mason,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Nutbush Gin Co,Brownsville,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Oak Grove Gin,Somerville,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tibbs Gin,Brownsville,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Two Way Gin Co,Brownsville,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Union Gin Co,Brownsville,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Yorkville Gin Co,Dyer,TN,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Adobe Walls Gin,Spearman,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Alamo-Kerley Gin,Saragosa,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Associated Cotton Growers,Saragosa,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Barta Gin,Damon,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Barwise Gin,Floydada,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+B F & M Co-op,Rosebud,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Birome Gin Co,Birome,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Caprock Gin Co,Ralls,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Carson County Gin,White Deer,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Citizens-Shallowater Co-op Gin,Shallowater,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+City Gin,Abernathy,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Coastal Plains Gin,Mathis,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Cotton Center Co-op Gin,Hale Center,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Darty Gin,Dougherty,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+D & J Gin,Lockney,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Fairchild Farmers Gin Co-op,Richmond,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Co-op Gin - East Bernard,East Bernard,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Farmers Gin & Grain Co,Abbott,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Five Points Gin,Seagraves,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Flower Grove Co-op Gin,Ackerly,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Floydada Co-op Gin,Floydada,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Friona Farmers Co-Op Gin,Friona,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Garlyn Co-op Gin,Post,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Hargill Growers Gin,Monte Alto,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Harlingen Gin Co,Harlingen,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Harmony Cotton Growers,Meadow,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Hereford Farmers Gin,Hereford,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Idalou Co-op Gin,Idalou,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Lubbock Cotton Growers,Lubbock,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Maple Co-op Gin,Maple,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Meadow Farmers Co-Op Gin,Meadow,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Midkiff Farmers Co-op Gin,Midkiff,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+New Home Co-op,Meadow,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Owens Co-op Gin,Ralls,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Parmer County Cotton Growers,Farwell,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Petersburg Co-op Gin,Petersburg,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Quarterway Cotton Growers,Plainview,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Ropes Farmers Co-op Gin,Ropesville,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Southwest Cotton Growers,Wellman,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Spade Co-Op Gin,Littlefield,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Springlake-Earth Cotton Growers,Springlake,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Tarzan Co-op Gin,Plains,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Texas Producers Co-op,Sudan,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Texas Star Co-op,Slaton,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+TriCounty Producers Co-Op,Loop,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+True Co-op Gin Co,Bishop,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+TXCOT Co-op Gin,Lorenzo,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+United Cotton Growers Co-Op,Levelland,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+United Ag Co-op,El Campo,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Valley Gin Co,Tornillo,TX,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Vanderbilt Farmers Co-op,Edna,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+WesTex Co-op Gin,Slaton,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Wells Farmers Co-op,O'Donnell,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Winter Garden Co-op,Batesville,TX,cooperative,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Commonwealth Gin,Windsor,VA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Commonwealth South Hampton Gin,Windsor,VA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+"Hawkins Gin, Inc",Emporia,VA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+Mid-Atlantic Gin,Emporia,VA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+"Suffolk Cotton Gin, Inc",Suffolk,VA,gin,FSA Master Cotton Ginners List / cottongins.org,gin/cooperative
+,,Alabama,,State Cotton Associations,association
+,,Arizona,,State Cotton Associations,association
+,,Arkansas,,State Cotton Associations,association
+,,California,,State Cotton Associations,association
+,,California,,State Cotton Associations,association
+,,Florida,,State Cotton Associations,association
+,,Georgia,,State Cotton Associations,association
+,,Kansas,,State Cotton Associations,association
+,,Louisiana,,State Cotton Associations,association
+,,Mississippi,,State Cotton Associations,association
+,,Missouri,,State Cotton Associations,association
+,,New Mexico,,State Cotton Associations,association
+,,North Carolina,,State Cotton Associations,association
+,,Oklahoma,,State Cotton Associations,association
+,,South Carolina,,State Cotton Associations,association
+,,Tennessee,,State Cotton Associations,association
+,,Texas,,State Cotton Associations,association
+,,Texas,,State Cotton Associations,association
+,,Virginia,,State Cotton Associations,association
